@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on incident response & digital forensics (DFIR), cyber security consulting/blue teaming services, system/internal penetration testing/red teaming.
 - 🌱 I’m currently learning to produce commcercial online courses/workshops/ebooks.
-- 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering.
+- 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering. Python is my favourite programming language: <https://github.com/trietptm?tab=repositories&q=&type=&language=python>
 - 🤔 I’m looking for help with business development in Vietnam.
 - 💬 Ask me about any Cyber Security questions if you need Cyber Security Consulting (securing accounts/systems, system security assessments, cyber-security maturity assessment, suspicious/malicious file examination,...) or have a malware/hacking outbreak and need an incident compromise assessment, malware remediation help, securing your systems and digital assets.
 - 📫 How to reach me: +84962797946 (WhatsApp, Viber, Signal), LinkedIn (https://www.linkedin.com/in/trietptm/), Twitter DM (https://twitter.com/MinhTrietPT) or reaching me via our company Facebook page: https://www.facebook.com/novasec.vn .
