@@ -8,7 +8,7 @@
 - 📫 How to reach me: +84962797946 (WhatsApp, Viber, Signal), LinkedIn (https://www.linkedin.com/in/trietptm/), Twitter DM (https://twitter.com/MinhTrietPT) or reaching me via our company Facebook page: https://www.facebook.com/novasec.vn .
 
 ## GitHub Stats 
-![chybeta's github stats](https://github-readme-stats.vercel.app/api?username=chybeta&count_private=true&show_icons=true)
+![chybeta's github stats](https://github-readme-stats.vercel.app/api?username=trietptm&count_private=true&show_icons=true)
 
 <!--
 **trietptm/trietptm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
