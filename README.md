@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on incident response & digital forensics (DFIR), cyber security consulting/blue teaming services, system/internal penetration testing/red teaming.
+- 🌱 I’m currently learning to produce commcercial online courses/workshops/ebooks.
+- 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering.
+- 🤔 I’m looking for help with business development in Vietnam.
+- 💬 Ask me about any Cyber Security questions if you need Cyber Security Consulting or have a malware/hacking outbreak.
+- 📫 How to reach me: +84962797946 (WhatsApp, Viber, Signal), LinkedIn (https://www.linkedin.com/in/trietptm/), Twitter DM (https://twitter.com/MinhTrietPT) or reaching me via our company Facebook page: https://www.facebook.com/novasec.vn .
+
+## GitHub Stats 
+![chybeta's github stats](https://github-readme-stats.vercel.app/api?username=chybeta&count_private=true&show_icons=true)
+
 <!--
 **trietptm/trietptm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
