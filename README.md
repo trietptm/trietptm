@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to produce commcercial online courses/workshops/ebooks.
 - 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering.
 - 🤔 I’m looking for help with business development in Vietnam.
-- 💬 Ask me about any Cyber Security questions if you need Cyber Security Consulting (system security assessments, cyber-security maturity assessment,...) or have a malware/hacking outbreak and need an incident compromise assessment & malware remediation help.
+- 💬 Ask me about any Cyber Security questions if you need Cyber Security Consulting (system security assessments, cyber-security maturity assessment, suspicious/malicious file examination) or have a malware/hacking outbreak and need an incident compromise assessment, malware remediation help and securing your accounts/systems.
 - 📫 How to reach me: +84962797946 (WhatsApp, Viber, Signal), LinkedIn (https://www.linkedin.com/in/trietptm/), Twitter DM (https://twitter.com/MinhTrietPT) or reaching me via our company Facebook page: https://www.facebook.com/novasec.vn .
 
 ## GitHub Stats 
