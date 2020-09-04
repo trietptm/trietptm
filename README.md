@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on incident response & digital forensics (DFIR), cyber security consulting/blue teaming services, system/internal penetration testing/red teaming.
-- 🌱 I’m currently learning to produce commcercial online courses/workshops.
+- 🌱 I’m currently learning Mathematics for Computer Science and Security Engineering.
 - 👯 I’m looking to collaborate on study/researching state-of-the-art tools, techniques, tactics in binary analysis and reverse engineering.
   * Python is my favorite programming language: <https://github.com/trietptm?tab=repositories&q=&type=&language=python>
   * I am honoured to be mentioned in the book "The Beginner's Guide to IDAPython" (https://leanpub.com/IDAPython-Book) and some FireEye Flare-On Challenge Honor Roll pages.
